@@ -1,0 +1,1 @@
+set :nginx_config, 'test_udeskt2.nginx.conf'
